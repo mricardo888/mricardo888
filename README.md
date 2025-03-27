@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 ## 🧠 About Me
 
 - 💻 I code in **Python**, **Java**, and **JavaScript**
-- 🔍 Always learning something new
-- 🛠️ I enjoy working on projects that challenge me to grow
-- 🌱 Currently exploring backend development and automation
+- 🔍 Constantly learning and experimenting
+- 🛠️ I enjoy projects that push me out of my comfort zone
+- 🌱 Currently diving into **backend development** and **automation**
 
 ---
 
@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ricardo-lee-a4488a338)
+- 📎 [LinkedIn](https://www.linkedin.com/in/ricardo-lee-a4488a338)
 
 ---
 
-Thanks for stopping by! 🚀
+Thanks for stopping by—happy coding! 🚀
