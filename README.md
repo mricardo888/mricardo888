@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 
 ## 📫 Let's Connect
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/ricardo-lee-a4488a338)
+- 📎 [LinkedIn](https://www.linkedin.com/in/ricardoleecm/)
 
 ---
 
