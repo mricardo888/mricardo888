@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 
 ## 🧠 About Me
 
-- 💻 I code in **Python**, **Java**, and **JavaScript**
-- 🔍 Constantly learning and experimenting
-- 🛠️ I enjoy projects that push me out of my comfort zone
-- 🌱 Currently diving into **backend development** and **automation**
+* 💻 I code in **Python**, **Java**, and **JavaScript**
+* 🔍 Constantly learning and experimenting
+* 🛠️ I enjoy projects that push me out of my comfort zone
+* 🌱 Currently diving into **backend development** and **automation**
 
 ---
 
@@ -27,13 +27,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 
 Here’s a quick look at my open source work:
 
-[![Ricardo's GitHub Repos](https://github-readme-stats.vercel.app/api?username=mricardo888&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/mricardo888?tab=repositories)
+[![Ricardo's GitHub Repos](https://github-readme-stats.vercel.app/api?username=mricardo888\&show_icons=true\&hide_title=true\&count_private=true\&include_all_commits=true)](https://github.com/mricardo888?tab=repositories)
 
 ---
 
 ## 📫 Let's Connect
 
-- 📎 [LinkedIn](https://www.linkedin.com/in/ricardoleecm/)
+* 📎 [LinkedIn](https://www.linkedin.com/in/ricardoleecm/)
 
 ---
 
