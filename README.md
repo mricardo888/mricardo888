@@ -57,7 +57,3 @@ I am actively seeking opportunities to contribute to **impactful Open Source pro
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quotes" />
 </p>
-
-<p align="center">
-  <sub>Built with ❤️ by Ricardo Lee. Last updated: 2025.</sub>
-</p>
