@@ -28,7 +28,22 @@ I am actively seeking opportunities to contribute to **impactful Open Source pro
 
 ---
 
+### 🌟 Featured Projects
+
+Take a look at my top projects, or view the **[Full Project Showcase](projects.md)** for a deep dive into my work and published libraries!
+
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **[Salus](projects.md#%EF%B8%8F-salus-privacy-first-coordination-of-benefits-engine)** | 🏆 **UofTHacks 13 Winner** <br> Local-first Healthcare AI Agent dealing with Coordination of Benefits. | `Next.js`, `FastAPI`, `Gemini Pro`, `MongoDB` |
+| **[TranSignal](projects.md#-transignal-autonomous-supply-chain-resilience-agent)** | 🏭 **Hack The Future** <br> Autonomous AI Supply Chain Co-Pilot predicting disruptions. | `Python`, `Streamlit`, `Gemini Flash`, `PyDeck` |
+| **[Clutter2Cash](projects.md#-clutter2cash-sustainability--resale-ai)** | ♻️ **Sustainability App** <br> Mobile App identifying items to estimate resale value and CO₂ saved. | `React Native`, `Node.js`, `Gemini API`, `Auth0` |
+| **[Python Libraries](projects.md#-open-source-python-libraries)** | 📦 **Published to PyPI** <br> Specialized libraries for image conversion, number formatting, and Morse code. | `Python`, `PyPI` |
+
+---
+
 ### 🛠️ Technical Competencies
+
+Check out my full **[Technical Skills Profile](skills.md)** for detailed expertise across cloud architecture, AI workflows, and mobile development.
 
 **Core Languages**
 <p align="left">
