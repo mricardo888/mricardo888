@@ -73,14 +73,6 @@ Check out my full **[Technical Skills Profile](skills.md)** for detailed experti
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mricardo888&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_rank=true" alt="Ricardo's Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mricardo888&layout=compact&theme=transparent&hide_border=true" alt="Ricardo's Top Languages" height="165" />
-</p>
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quotes" />
 </p>
