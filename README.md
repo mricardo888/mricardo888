@@ -1,3 +1,15 @@
+<p align="center">
+  <b>🏡 Home</b> | 
+  <a href="projects.md">🚀 Featured Projects</a> | 
+  <a href="skills.md">💻 Technical Skills</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/banner.png" alt="Ricardo's Tech Banner" width="100%" />
+</p>
+
 # <p align="center">✨ Ricardo Lee | Full-Stack Developer</p>
 
 <p align="center">
@@ -34,10 +46,10 @@ Take a look at my top projects, or view the **[Full Project Showcase](projects.m
 
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **[Salus](projects.md#%EF%B8%8F-salus-privacy-first-coordination-of-benefits-engine)** | 🏆 **UofTHacks 13 Winner** <br> Local-first Healthcare AI Agent dealing with Coordination of Benefits. | `Next.js`, `FastAPI`, `Gemini Pro`, `MongoDB` |
-| **[TranSignal](projects.md#-transignal-autonomous-supply-chain-resilience-agent)** | 🏭 **Hack The Future** <br> Autonomous AI Supply Chain Co-Pilot predicting disruptions. | `Python`, `Streamlit`, `Gemini Flash`, `PyDeck` |
-| **[Clutter2Cash](projects.md#-clutter2cash-sustainability--resale-ai)** | ♻️ **Sustainability App** <br> Mobile App identifying items to estimate resale value and CO₂ saved. | `React Native`, `Node.js`, `Gemini API`, `Auth0` |
-| **[Python Libraries](projects.md#-open-source-python-libraries)** | 📦 **Published to PyPI** <br> Specialized libraries for image conversion, number formatting, and Morse code. | `Python`, `PyPI` |
+| **[Salus](projects.md#salus)** | 🏆 **UofTHacks 13 Winner** <br> Local-first Healthcare AI Agent dealing with Coordination of Benefits. | `Next.js`, `FastAPI`, `Gemini Pro`, `MongoDB` |
+| **[TranSignal](projects.md#transignal)** | 🏭 **Hack The Future** <br> Autonomous AI Supply Chain Co-Pilot predicting disruptions. | `Python`, `Streamlit`, `Gemini Flash`, `PyDeck` |
+| **[Clutter2Cash](projects.md#clutter2cash)** | ♻️ **Sustainability App** <br> Mobile App identifying items to estimate resale value and CO₂ saved. | `React Native`, `Node.js`, `Gemini API`, `Auth0` |
+| **[Python Libraries](projects.md#python-libraries)** | 📦 **Published to PyPI** <br> Specialized libraries for image conversion, number formatting, and Morse code. | `Python`, `PyPI` |
 
 ---
 

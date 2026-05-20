@@ -1,9 +1,18 @@
+<p align="center">
+  <a href="README.md">🏡 Home</a> | 
+  <b>🚀 Featured Projects</b> | 
+  <a href="skills.md">💻 Technical Skills</a>
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 Dive deeper into my most impactful applications, hackathon-winning projects, and open-source contributions. 
 
 ---
 
+<a id="salus"></a>
 ## 🛡️ Salus: Privacy-First 'Coordination of Benefits' Engine
 **[UofTHacks 13 Winner: Best Use of MongoDB Atlas] | [View Project](https://devpost.com/software/salus-9javs3)**
 
@@ -16,6 +25,7 @@ Salus is a **local-first, universal benefits engine** engineered to solve the co
 
 ---
 
+<a id="transignal"></a>
 ## 🏭 TranSignal: Autonomous Supply Chain Resilience Agent
 **[Hack The Future] | AI Operations Co-Pilot**
 
@@ -28,6 +38,7 @@ TranSignal is designed to help mid-market manufacturers proactively predict, mit
 
 ---
 
+<a id="clutter2cash"></a>
 ## 🧺 Clutter2Cash: Sustainability & Resale AI
 **[Built during an MLH Hackathon] | [View Project](https://github.com/Clutter2Cash/clutter2cash)**
 
@@ -39,6 +50,7 @@ Clutter2Cash is an intelligent mobile app that helps users find worth in what is
 
 ---
 
+<a id="python-libraries"></a>
 ## 🐍 Open Source Python Libraries
 
 I actively maintain several lightweight, highly specialized Python tools published on PyPI.
