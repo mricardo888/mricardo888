@@ -10,69 +10,73 @@
   <img src="assets/banner.png" alt="Ricardo's Tech Banner" width="100%" />
 </p>
 
-# <p align="center">✨ Ricardo Lee | Full-Stack Developer</p>
+<div align="center">
+  <h1>✨ Ricardo Lee</h1>
+  <p><b>Software Engineer • Autonomous AI Agents & Backend Systems • Open-Source Author</b></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborations-brightgreen?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Automation-blue?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/github/followers/mricardo888?label=Follow&style=flat-square" alt="Followers"/>
-</p>
+  <p>
+    <a href="https://devpost.com/software/salus-9javs3"><img src="https://img.shields.io/badge/%F0%9F%8F%86_UofTHacks_13-Winner-FFD700?style=flat-square" alt="Hackathon Winner"/></a>
+    <a href="projects.md#python-libraries"><img src="https://img.shields.io/badge/PyPI-Package_Author-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI Author"/></a>
+    <img src="https://img.shields.io/badge/Focus-AI_Agents_%26_Distributed_Systems-6f42c1?style=flat-square" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-brightgreen?style=flat-square" alt="Status"/>
+  </p>
+</div>
 
 ---
 
 ### 📖 Executive Summary
-A results-driven developer specializing in **Python**, **Java**, and **Node.js**. I bridge the gap between complex logic and user-centric solutions, with a deep passion for **architecting scalable backend systems** and **automating repetitive workflows**. 
+
+I am a software engineer specializing in **autonomous AI agent architectures**, **scalable backend systems**, and **developer tooling**. I engineer solutions that turn complex distributed workflows—such as multi-agent healthcare benefits optimization and predictive supply chain simulation—into reliable, production-ready software.
+
+* 🏆 **Hackathon Champion:** Winner of **UofTHacks 13** (Best Use of MongoDB Atlas) for [Salus](https://github.com/mricardo888/salus).
+* 📦 **Open-Source Author:** Creator and maintainer of 3+ published PyPI packages ([`imageconvert`](https://pypi.org/project/imageconvert/), [`word-number-converter`](https://pypi.org/project/word-number-converter/), [`morsecode-handler`](https://pypi.org/project/morsecode-handler/)).
+* 🤖 **Agentic Systems:** Building deterministic multi-agent state machines and RAG pipelines using **LangGraph**, **Google Gemini**, **FastAPI**, and **MongoDB Atlas Vector Search**.
 
 ---
 
-### 🤝 Let's Build Something Together
-I am actively seeking opportunities to contribute to **impactful Open Source projects** and **high-growth engineering teams**. If you value clean code and innovative problem-solving, let's connect!
+### 🤝 Let's Connect & Collaborate
+
+I am actively seeking technical collaborations, open-source initiatives, and backend/AI engineering roles.
 
 <p align="left">
-<a href="mailto:ricardo.devstudio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ricardo" /></a>
-<a href="https://www.linkedin.com/in/ricardoleecm/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ricardoleecm linkedin" /></a>
-<a href="https://mricardo888.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=google-chrome&logoColor=white" alt="mricardo888 website" /></a>
-<a href="https://devpost.com/entrepreneuricardo" target="blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="entrepreneuricardo devpost" /></a>
+  <a href="mailto:ricardo.devstudio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ricardo" /></a>
+  <a href="https://www.linkedin.com/in/ricardoleecm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mricardo888.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://devpost.com/entrepreneuricardo" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
 </p>
 
 > [!TIP]
-> **Currently seeking:** Technical collaborations, Hackathons, and Backend engineering roles.
+> **Currently open for:** Backend Engineering, AI/Agentic System Design, Open Source Contributions, and Hackathon Collaborations.
 
 ---
 
 ### 🌟 Featured Projects
 
-Take a look at my top projects, or view the **[Full Project Showcase](projects.md)** for a deep dive into my work and published libraries!
+| Project | Highlights & Capabilities | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[Salus](projects.md#salus)** | 🏆 **UofTHacks 13 Winner** (Best MongoDB Atlas)<br>Local-first Healthcare AI coordination engine. Integrates Zero-Trust 1Password passkeys & LangGraph multi-agent reasoning to mathematically optimize medical billing and insurance aid. | `Next.js` • `FastAPI` • `Gemini 1.5 Pro` • `LangGraph` • `MongoDB Atlas` | [GitHub](https://github.com/mricardo888/salus) • [Devpost](https://devpost.com/software/salus-9javs3) • [Details](projects.md#salus) |
+| **[TranSignal](projects.md#transignal)** | 🏭 **Autonomous Supply Chain Resilience Agent**<br>Predictive AI operations co-pilot that monitors transit bottlenecks in real time and models financial trade-offs (SLA penalties vs. expedited shipping). | `Python` • `FastAPI` • `Streamlit` • `Gemini 2.5 Flash` • `PyDeck` | [GitHub](https://github.com/mricardo888/TranSignal) • [Details](projects.md#transignal) |
+| **[Clutter2Cash](projects.md#clutter2cash)** | ♻️ **Sustainability & Resale AI Mobile App**<br>Computer-vision powered mobile app that identifies items, calculates resale market pricing, and measures CO₂ emissions saved from landfills. | `React Native` • `Node.js` • `Auth0` • `Gemini API` • `MongoDB` | [GitHub](https://github.com/mricardo888/Clutter2Cash) • [Devpost](https://devpost.com/software/clutter2cash) • [Details](projects.md#clutter2cash) |
+| **[PyPI Libraries](projects.md#python-libraries)** | 📦 **Published Developer Tools & Utilities**<br>Specialized Python libraries: `imageconvert` (EXIF-safe batch conversion), `word-number-converter` (40+ language parsing), and `morsecode-handler`. | `Python` • `PyPI` • `CLI Tooling` | [View Libraries](projects.md#python-libraries) |
 
-| Project | Highlights | Tech Stack |
-| :--- | :--- | :--- |
-| **[Salus](projects.md#salus)** | 🏆 **UofTHacks 13 Winner** <br> Local-first Healthcare AI Agent dealing with Coordination of Benefits. | `Next.js`, `FastAPI`, `Gemini Pro`, `MongoDB` |
-| **[TranSignal](projects.md#transignal)** | 🏭 **Hack The Future** <br> Autonomous AI Supply Chain Co-Pilot predicting disruptions. | `Python`, `Streamlit`, `Gemini Flash`, `PyDeck` |
-| **[Clutter2Cash](projects.md#clutter2cash)** | ♻️ **Sustainability App** <br> Mobile App identifying items to estimate resale value and CO₂ saved. | `React Native`, `Node.js`, `Gemini API`, `Auth0` |
-| **[Python Libraries](projects.md#python-libraries)** | 📦 **Published to PyPI** <br> Specialized libraries for image conversion, number formatting, and Morse code. | `Python`, `PyPI` |
+👉 *Explore architectural deep-dives, mobile apps, and full write-ups in the **[Complete Project Showcase](projects.md)**.*
 
 ---
 
 ### 🛠️ Technical Competencies
 
-Check out my full **[Technical Skills Profile](skills.md)** for detailed expertise across cloud architecture, AI workflows, and mobile development.
-
-**Core Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-| Category | Tools & Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Frameworks** | `Express.js` • `Automation Frameworks` |
-| **Infrastructure** | `Git` • `Unix/Linux` • `RESTful APIs` |
-| **Environment** | `VS Code` • `GitHub` • `Terminal` |
+| **Languages** | `Python` • `TypeScript` • `Java` • `Kotlin` • `JavaScript` • `SQL` |
+| **AI & Agentic Workflows** | `Google Gemini (1.5 Pro / 2.5 Flash)` • `LangGraph` • `MongoDB Vector Search (RAG)` • `ElevenLabs` |
+| **Backend & Cloud Architecture** | `FastAPI` • `Node.js / Express` • `RESTful APIs` • `MongoDB Atlas` • `Auth0` • `1Password Passkeys` |
+| **Frontend & Mobile** | `Next.js / React` • `React Native (Expo)` • `Android Native (Jetpack Compose / Java)` • `Streamlit` |
+| **DevOps & Developer Tooling** | `Git / GitHub` • `GitHub Actions (CI/CD)` • `PyPI Distribution` • `Linux/Unix` • `Vercel` |
+
+👉 *For an exhaustive breakdown of skills and architectural patterns, visit the **[Technical Skills Profile](skills.md)**.*
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quotes" />
+  <sub>Built with focus on clean architecture, resilient systems, and real-world impact.</sub>
 </p>
