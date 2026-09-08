@@ -10,6 +10,12 @@
 
 My passion lies in architecting scalable backend systems, automating complex workflows, and deploying autonomous AI agents. Here is an overview of the technologies and architectural paradigms I use to build robust software.
 
+> [!NOTE]
+> **Core Engineering Principles:**
+> * **Deterministic Agent Workflows:** Utilizing LangGraph state machines with explicit validation and human-in-the-loop gates rather than chaotic LLM loops.
+> * **Zero-Trust Security:** Client-side cryptographic isolation (e.g. 1Password Passkeys) ensuring sensitive PII never touches backend databases.
+> * **Resilient & High-Concurrency Backend:** Asynchronous Python (FastAPI) and Node.js microservices engineered for real-time vector search and high throughput.
+
 ---
 
 ### 🗣️ Programming Languages
@@ -67,3 +73,34 @@ My passion lies in architecting scalable backend systems, automating complex wor
 | **CI/CD & Hosting** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> | Automated testing, linting pipelines, and continuous deployment workflows. |
 | **Version Control** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> | Git branching strategies, code reviews, and open-source collaboration. |
 | **Environments** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> | Unix/Linux environments, Bash/Zsh automation, and local development tunnels. |
+
+---
+
+<p align="center">
+  <a href="README.md">🏡 <b>Back to Home</b></a> &nbsp;•&nbsp; 
+  <a href="projects.md">🚀 <b>View Featured Projects</b></a> &nbsp;•&nbsp; 
+  <a href="#">⬆️ <b>Back to Top</b></a>
+</p>
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+I am actively seeking technical collaborations, open-source initiatives, and backend/AI engineering roles.
+
+<p align="left">
+  <a href="mailto:ricardo.devstudio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ricardo" /></a>
+  <a href="https://www.linkedin.com/in/ricardoleecm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mricardo888.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://devpost.com/entrepreneuricardo" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a>
+  <a href="https://github.com/mricardo888"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+> [!TIP]
+> **Currently open for:** Backend Engineering, AI/Agentic System Design, Open Source Contributions, and Hackathon Collaborations.
+
+---
+
+<p align="center">
+  <sub>Built with focus on clean architecture, resilient systems, and real-world impact.</sub>
+</p>
